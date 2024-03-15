@@ -1,3 +1,6 @@
+.logo-margin{
+    margin-top: 50px;
+}
 .buy-button{
     border: none;
     border-radius: 6px;
@@ -7,15 +10,15 @@
     margin-bottom: 30px;
 }
 .container{
-    margin-bottom: 0px;
+    margin-bottom: 100px;
 }
 .banner-background{
     background-image: url(images/bg-1.png);
     background-repeat: no-repeat;
     background-position: center;
 }
-.carousel-margin-bottom{
-    margin-bottom: 100px;
+.carousel-margin{
+    margin-top: -140px;
 }
 .see-all{
     color: orange;
@@ -42,7 +45,8 @@
     margin-bottom: 150px;
 }
 .catagory h2{
-    text-align: center;    
+    text-align: center;  
+    border-bottom rounded-bottom border-dark;  
 }
 .cart img{
     width: 100%;
